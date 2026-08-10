@@ -243,7 +243,3 @@ iOS 客户端在 [`apps/mobile/`](apps/mobile/)，怎么编译装到自己 iPhon
 ---
 
 ## 开源协议
-
-[Multica License](LICENSE) —— Apache License 2.0 全文并入，外加针对托管服务、商业嵌入和品牌标识的
-附加条件。自部署、改代码、在它之上做东西都可以；准确条款以 [LICENSE](LICENSE) 为准，署名信息见
-[NOTICE](NOTICE)。
